@@ -1,0 +1,3 @@
+/home/sugon/TranslationTransform/build/CMakeFiles/rebuild_cache.dir
+/home/sugon/TranslationTransform/build/CMakeFiles/TranslationTransform.dir
+/home/sugon/TranslationTransform/build/CMakeFiles/edit_cache.dir
